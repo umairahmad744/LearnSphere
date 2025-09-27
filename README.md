@@ -1,19 +1,4 @@
 
-# 🎬 Studio
-
-A modern, lightweight project designed to make development faster, cleaner, and easier.
-This repository contains code, tools, and examples that help you get started with **Studio** quickly.
-
----
-
-## 🚀 Features
-
-* Simple and clean project structure
-* Easy to set up and run locally
-* Extensible and customizable
-* Built with best practices in mind
-
----
 
 ## 📂 Project Structure
 
