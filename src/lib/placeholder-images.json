@@ -1,3 +1,58 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "A student learning online with a laptop.",
+      "imageUrl": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVkZW50JTIwbGFwdG9wfGVufDB8fHx8MTc1OTAwMjc0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student laptop"
+    },
+    {
+      "id": "course-thumb-1",
+      "description": "Thumbnail for Web Development course.",
+      "imageUrl": "https://images.unsplash.com/photo-1555099962-4199c345e5dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2RlJTIwY29tcHV0ZXJ8ZW58MHx8fHwxNzU4OTcxOTA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "code computer"
+    },
+    {
+      "id": "course-thumb-2",
+      "description": "Thumbnail for Data Science course.",
+      "imageUrl": "https://images.unsplash.com/photo-1745847768367-893e989d3a98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkYXRhJTIwY2hhcnR8ZW58MHx8fHwxNzU4OTM5NzczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data chart"
+    },
+    {
+      "id": "course-thumb-3",
+      "description": "Thumbnail for Graphic Design course.",
+      "imageUrl": "https://images.unsplash.com/photo-1652805363265-b8fbf9bbdfac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwYWxldHRlJTIwZGVzaWdufGVufDB8fHx8MTc1OTAwMjc0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "palette design"
+    },
+    {
+      "id": "course-thumb-4",
+      "description": "Thumbnail for Digital Marketing course.",
+      "imageUrl": "https://images.unsplash.com/photo-1535303311164-664fc9ec6532?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3NTg5ODY4Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "social media"
+    },
+    {
+      "id": "course-thumb-5",
+      "description": "Thumbnail for Machine Learning course.",
+      "imageUrl": "https://images.unsplash.com/photo-1635321856029-68a8cbae50fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxyb2JvdCUyMGJyYWlufGVufDB8fHx8MTc1ODkwNDc4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "robot brain"
+    },
+    {
+      "id": "course-thumb-6",
+      "description": "Thumbnail for Mobile App Development course.",
+      "imageUrl": "https://images.unsplash.com/photo-1585692614093-62dab82e9d08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwaG9uZSUyMHNjcmVlbnxlbnwwfHx8fDE3NTkwMDExMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "phone screen"
+    },
+    {
+      "id": "avatar-1",
+      "description": "Avatar for a user named Alex Doe.",
+      "imageUrl": "https://i.pravatar.cc/150?img=3",
+      "imageHint": "person face"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Avatar for a user named Jane Smith.",
+      "imageUrl": "https://i.pravatar.cc/150?img=4",
+      "imageHint": "woman face"
+    }
+  ]
 }
